@@ -1,0 +1,6 @@
+bin/
+build/
+lib/
+include/opencv4/
+share/
+.vscode/
